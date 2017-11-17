@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         free skins
-// @namespace    http://tampermonkey.net/
+// @namespace    NOPE
 // @version      1.0.0
 // @description  you can use every skin in agario for free
 // @author       SAV-404
